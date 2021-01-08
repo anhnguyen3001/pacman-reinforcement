@@ -39,3 +39,5 @@
     + Lấy ra feature vector, loop trên đó cập nhật weight:
     <img src="./q8-updatefunction.PNG"/>
 - Autograder:
+  <img src="./autograder.PNG"/>
+  
