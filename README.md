@@ -17,5 +17,6 @@
     + Lấy ra feature vector, loop trên đó tính theo công thức:
     <img src="./q8-qfunction.PNG"/>
   - Với hàm update:
-    
+    + Tính difference theo công thức dưới
+    + Lấy ra feature vector, loop trên đó cập nhật weight:
     <img src="./q8-updatefunction.PNG"/>
