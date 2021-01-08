@@ -17,6 +17,10 @@
     + Lưu giá trị của từng action
     + Return giá trị max
   - Hàm computeActionFromQValues: Tương tự hàm computeValueFromQValues, tìm ra action có giá trị max 
+  - Hàm update:
+    + Update value của state, action bằng công thức dưới
+    <img src="./q4-updatefunction.PNG"/>
+    + Nếu kết thúc: không cần + phần discount
 - Câu 5:
   - Ý tưởng: Lấy r = số random nếu:
     - r < epsilon: lấy random action từ list legalAction (exploration)
