@@ -10,6 +10,9 @@
 - Câu 3:
 - Câu 4:
 - Câu 5:
+  - Ý tưởng: Lấy r = số random nếu:
+    - r < epsilon: lấy random action từ list legalAction (exploration)
+    - r >= epsilon:  lấy action tốt nhất (exploitation)
 - Câu 6:
 - Câu 7:
   - Khởi tạo value với cấu trúc dữ liệu Counter
