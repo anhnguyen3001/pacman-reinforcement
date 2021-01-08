@@ -14,7 +14,7 @@
 - Câu 7:
 - Câu 8:
   - Với hàm getQValue:
-    
+    + Lấy ra feature vector, loop trên đó tính theo công thức:
     <img src="./q8-qfunction.PNG"/>
   - Với hàm update:
     
